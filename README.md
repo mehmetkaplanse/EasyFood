@@ -1,2 +1,2 @@
 # EasyFood
-EasyFood adlı uygulama
+(MVVM + Retrofit + RoomDb)
